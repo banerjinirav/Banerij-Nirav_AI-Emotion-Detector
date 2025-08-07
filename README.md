@@ -1,4 +1,3 @@
-About This Project
 An NLP sentiment analysis system that classifies Reddit comments into a curated set of high-signal emotions using a fine-tuned DistilBERT transformer. This project emphasizes dataset quality over model complexity, applying advanced noise reduction and label engineering before training to ensure highly discriminative learning.
 
 Key Features Implemented So Far
